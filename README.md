@@ -20,6 +20,8 @@ https://github.com/RYA234/HTML_PRO_2_Learning
 
 ### LPIC 102 201 202
 
+#### LPIC102
+https://github.com/RYA234/LPIC102_Learning
 ### JSTQB Foundation Level
 
 ### UML
