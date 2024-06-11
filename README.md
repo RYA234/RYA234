@@ -1,4 +1,4 @@
-## 2024年　取組内容
+x## 2024年　取組内容
 学習記録をgithubに残しています
 
 ## 着手中
@@ -10,6 +10,8 @@
 https://github.com/RYA234/OSS_DB_Silver_Learning
 
 ### Vue3
+
+https://github.com/RYA234/laravel9_vite_vue3
 
 ## 未着手
 ### HTML プロフェッショナル　レベル２
