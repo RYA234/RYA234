@@ -3,11 +3,7 @@ x## 2024年　取組内容
 
 ## 着手中
 
-### OSS-DB Silver 
 
-予定では６月初旬に完了
-
-https://github.com/RYA234/OSS_DB_Silver_Learning
 
 ### Vue3
 
@@ -32,6 +28,12 @@ https://github.com/RYA234/UML_Learning
 
 
 ## 完了
+
+### OSS-DB Silver 
+
+６月中旬に完了
+
+https://github.com/RYA234/OSS_DB_Silver_Learning
 
 
 
