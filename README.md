@@ -1,8 +1,12 @@
-x## 2024年　取組内容
+## 2024年　取組内容
 学習記録をgithubに残しています
 
 ## 着手中
+### HTML プロフェッショナル　レベル２
 
+予定では8月初旬に完了
+
+https://github.com/RYA234/HTML_PRO_2_Learning
 
 
 ### Vue3
@@ -10,11 +14,7 @@ x## 2024年　取組内容
 https://github.com/RYA234/laravel9_vite_vue3
 
 ## 未着手
-### HTML プロフェッショナル　レベル２
 
-予定では8月初旬に完了
-
-https://github.com/RYA234/HTML_PRO_2_Learning
 
 ### LPIC 102 201 202
 
